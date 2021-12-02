@@ -1,9 +1,9 @@
 ---
-layout: resume
-title: Brigham Young's Resume
+layout: cv
+title: Christopher Baldwin's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Christopher Baldwin
+Enlisted in the Idaho Guard and Student at BYU-Idaho
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
